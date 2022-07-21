@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="http://josenildovicente.github.io/"><i>Josenildo Vicente</i></a> 👋</h1>
-  <p align="center">Sou graduando em Ciência da computação e tenho muito interessa na área de Ciência de Dados e Inteligência Artificial</p>
+  <p align="center">Sou graduando em Ciência da computação e tenho muito interessa na área de Ciência de Dados e Inteligência Artificial.</p>
 </div>
 
 <div align="center">
@@ -32,7 +32,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JosenildoVicente/JosenildoVicente/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
